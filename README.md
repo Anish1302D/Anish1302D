@@ -33,7 +33,7 @@
 
 ---
 
-## 🛠️ Tech Stack (with Logos)
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,c,cpp,java,html,css,fastapi,flask,flutter,tensorflow,pytorch,opencv,mysql,mongodb,postgres,gcp,firebase,aws,vercel,git,github" />
@@ -52,7 +52,7 @@ AI-powered infrastructure monitoring & anomaly detection system
 - ☁️ Cloud deployment ready  
 
 🔗 Live Demo: https://infraguardai.tech/dashboard
-🔗 Repo: https://github.com/Anish1302D  
+🔗 Repo: https://github.com/Anish1302D/infraguard-ai.git
 
 ---
 

@@ -1,11 +1,9 @@
-<!-- 🚀 FINAL CLEAN + LIVE GITHUB PROFILE README -->
+<!-- 🚀 ULTRA FINAL GITHUB PROFILE README -->
 
-<h1 align="center">
-  👋 Hey, I'm <b>Anish Mogam</b>
-</h1>
+<h1 align="center">👋 Hey, I'm <b>Anish Mogam</b></h1>
 
 <p align="center">
-💻 Computer Science Student | 🤖 AI Explorer | ☁️ Cloud Enthusiast  
+💻 Computer Science Student | 🤖 AI Explorer | ☁️ Cloud Enthusiast
 </p>
 
 <p align="center">
@@ -18,9 +16,9 @@
 
 - 🎓 SY BSc Computer Science Student  
 - 🚀 Building **InfraGuard AI** (AI-based Infrastructure Monitoring System)  
-- ☁️ Exploring **Cloud Deployment (Google Cloud)**  
+- ☁️ Exploring **Google Cloud & Deployment**  
 - 🧩 Focused on **Backend Systems, APIs & AI Integration**  
-- ⚡ Passionate about solving real-world problems  
+- ⚡ Passionate about real-world problem solving  
 
 ---
 
@@ -29,34 +27,17 @@
 ```text
 🚀 InfraGuard AI Development
 ☁️ Deploying on Cloud Run
-🤖 AI Integration in Apps
+🤖 AI Integration
 ⚡ Backend Optimization
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack (with Logos)
 
-**Languages:**  
-Python | JavaScript | C | C++ | Java  
-
-**Web:**  
-HTML | CSS  
-
-**Backend:**  
-FastAPI | Flask  
-
-**App Dev:**  
-Flutter  
-
-**AI/ML:**  
-TensorFlow | PyTorch | OpenCV  
-
-**Databases:**  
-MySQL | MongoDB | PostgreSQL  
-
-**Cloud & Tools:**  
-Google Cloud | Firebase | AWS | Vercel  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,c,cpp,java,html,css,fastapi,flask,flutter,tensorflow,pytorch,opencv,mysql,mongodb,postgres,gcp,firebase,aws,vercel,git,github" />
+</p>
 
 ---
 
@@ -70,7 +51,7 @@ AI-powered infrastructure monitoring & anomaly detection system
 - ⚡ Scalable backend  
 - ☁️ Cloud deployment ready  
 
-🔗 Live Demo: (add Cloud Run link)  
+🔗 Live Demo: *(add your Cloud Run link)*  
 🔗 Repo: https://github.com/Anish1302D  
 
 ---
@@ -92,10 +73,18 @@ AI-powered infrastructure monitoring & anomaly detection system
 
 ---
 
-## 📈 Activity Graph
+## 📈 Activity Graph (may take time to load)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anish1302D&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anish1302D&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake (Auto Animation)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anish1302D/Anish1302D/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -110,10 +99,20 @@ AI-powered infrastructure monitoring & anomaly detection system
 
 ## 🔗 Connect With Me
 
-- 📧 Email: anishmogam@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/anish-mogam-33a2b6218  
-- 📸 Instagram: https://instagram.com/anish_13_02  
-- 🐦 X: https://x.com/Anish25251  
+<p align="center">
+  <a href="mailto:anishmogam@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/anish-mogam-33a2b6218">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/anish_13_02">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://x.com/Anish25251">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
@@ -127,6 +126,8 @@ AI-powered infrastructure monitoring & anomaly detection system
 
 ## ⚡ Quote
 
-> "Don't just learn tech — build systems that solve real problems."
+<p align="center">
+<b>"Don't just learn tech — build systems that solve real problems."</b>
+</p>
 
 ---

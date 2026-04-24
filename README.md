@@ -51,7 +51,7 @@ AI-powered infrastructure monitoring & anomaly detection system
 - ⚡ Scalable backend  
 - ☁️ Cloud deployment ready  
 
-🔗 Live Demo: *(add your Cloud Run link)*  
+🔗 Live Demo: https://infraguardai.tech/dashboard
 🔗 Repo: https://github.com/Anish1302D  
 
 ---
@@ -77,22 +77,6 @@ AI-powered infrastructure monitoring & anomaly detection system
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anish1302D&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
----
-
-## 🐍 Contribution Snake (Auto Animation)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anish1302D/Anish1302D/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anish1302D&theme=tokyonight&no-frame=true"/>
 </p>
 
 ---

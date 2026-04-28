@@ -14,7 +14,7 @@
 
 ## 🧠 About Me
 
-- 🎓 SY BSc Computer Science Student  
+- 🎓 Computer Science Student  
 - 🚀 Building **InfraGuard AI** (AI-based Infrastructure Monitoring System)  
 - ☁️ Exploring **Google Cloud & Deployment**  
 - 🧩 Focused on **Backend Systems, APIs & AI Integration**  

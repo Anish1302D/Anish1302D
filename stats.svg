@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" fill="none">
+  <defs>
+    <linearGradient id="stGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1a1b27"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+    <linearGradient id="stRing" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#06b6d4"/>
+      <stop offset="50%" stop-color="#3b82f6"/>
+      <stop offset="100%" stop-color="#2563eb"/>
+    </linearGradient>
+    <filter id="stGlow"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <clipPath id="stClip"><rect width="495" height="195" rx="12"/></clipPath>
+  </defs>
+  <g clip-path="url(#stClip)">
+    <rect width="495" height="195" fill="url(#stGrad)" rx="12"/>
+    <rect width="495" height="195" rx="12" stroke="#3b82f6" stroke-width="1" stroke-opacity="0.3" fill="none"/>
+    <line x1="0" y1="48" x2="495" y2="48" stroke="#3b82f6" stroke-opacity="0.06" stroke-width="1"/>
+
+    <!-- Title -->
+    <text x="25" y="33" font-family="'Segoe UI',Ubuntu,sans-serif" font-weight="700" font-size="14" fill="#3b82f6" opacity="0">
+      ⚡ Anish's Developer Stats
+      <animate attributeName="opacity" from="0" to="1" dur="0.5s" fill="freeze"/>
+    </text>
+
+    <!-- Rank Ring -->
+    <g transform="translate(400,110)">
+      <circle cx="0" cy="0" r="40" fill="none" stroke="#1e293b" stroke-width="5" stroke-opacity="0.3"/>
+      <circle cx="0" cy="0" r="40" fill="none" stroke="url(#stRing)" stroke-width="5"
+              stroke-dasharray="251" stroke-dashoffset="251" stroke-linecap="round"
+              transform="rotate(-90)" filter="url(#stGlow)">
+        <animate attributeName="stroke-dashoffset" from="251" to="50" dur="1.5s" begin="0.3s" fill="freeze"/>
+      </circle>
+      <text x="0" y="3" text-anchor="middle" font-family="'Segoe UI',Ubuntu,sans-serif" font-weight="800" font-size="22" fill="#3b82f6" opacity="0">
+        A+
+        <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.5s" fill="freeze"/>
+      </text>
+      <text x="0" y="16" text-anchor="middle" font-family="'Segoe UI',Ubuntu,sans-serif" font-size="9" fill="#9ca3af" opacity="0">
+        BUILDER
+        <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.5s" fill="freeze"/>
+      </text>
+    </g>
+
+    <!-- Stat rows -->
+    <g transform="translate(25,70)" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.2s" fill="freeze"/>
+      <circle cx="6" cy="-4" r="4" fill="#06b6d4" opacity="0.8"/>
+      <text x="16" y="0" font-family="'Segoe UI',Ubuntu,sans-serif" font-size="12" fill="#9ca3af">Repositories</text>
+      <text x="240" y="0" font-family="'Segoe UI',Ubuntu,sans-serif" font-weight="700" font-size="13" fill="#e5e7eb" text-anchor="end">13+</text>
+    </g>
+    <g transform="translate(25,95)" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.4s" fill="freeze"/>
+      <circle cx="6" cy="-4" r="4" fill="#3b82f6" opacity="0.8"/>
+      <text x="16" y="0" font-family="'Segoe UI',Ubuntu,sans-serif" font-size="12" fill="#9ca3af">Languages Used</text>
+      <text x="240" y="0" font-family="'Segoe UI',Ubuntu,sans-serif" font-weight="700" font-size="13" fill="#e5e7eb" text-anchor="end">7+</text>
+    </g>
+    <g transform="translate(25,120)" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.6s" fill="freeze"/>
+      <circle cx="6" cy="-4" r="4" fill="#60a5fa" opacity="0.8"/>
+      <text x="16" y="0" font-family="'Segoe UI',Ubuntu,sans-serif" font-size="12" fill="#9ca3af">Projects Active</text>
+      <text x="240" y="0" font-family="'Segoe UI',Ubuntu,sans-serif" font-weight="700" font-size="13" fill="#e5e7eb" text-anchor="end">6+</text>
+    </g>
+    <g transform="translate(25,145)" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.8s" fill="freeze"/>
+      <circle cx="6" cy="-4" r="4" fill="#2563eb" opacity="0.8"/>
+      <text x="16" y="0" font-family="'Segoe UI',Ubuntu,sans-serif" font-size="12" fill="#9ca3af">AI/ML Systems</text>
+      <text x="240" y="0" font-family="'Segoe UI',Ubuntu,sans-serif" font-weight="700" font-size="13" fill="#e5e7eb" text-anchor="end">3+</text>
+    </g>
+    <g transform="translate(25,170)" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.0s" fill="freeze"/>
+      <circle cx="6" cy="-4" r="4" fill="#1d4ed8" opacity="0.8"/>
+      <text x="16" y="0" font-family="'Segoe UI',Ubuntu,sans-serif" font-size="12" fill="#9ca3af">Status</text>
+      <text x="240" y="0" font-family="'Segoe UI',Ubuntu,sans-serif" font-weight="700" font-size="13" fill="#10b981" text-anchor="end">● Shipping</text>
+    </g>
+
+    <!-- Sparkles -->
+    <circle cx="460" cy="30" r="2" fill="#3b82f6">
+      <animate attributeName="opacity" values="0.2;0.8;0.2" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="475" cy="45" r="1.5" fill="#60a5fa">
+      <animate attributeName="opacity" values="0.1;0.6;0.1" dur="3s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>

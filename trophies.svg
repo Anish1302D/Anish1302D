@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="180" viewBox="0 0 800 180" fill="none">
+  <defs>
+    <linearGradient id="trBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1a1b27"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+    <linearGradient id="trGold" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#fbbf24"/>
+      <stop offset="100%" stop-color="#d97706"/>
+    </linearGradient>
+    <linearGradient id="trSilver" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#e5e7eb"/>
+      <stop offset="100%" stop-color="#9ca3af"/>
+    </linearGradient>
+    <linearGradient id="trPurple" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#3b82f6"/>
+      <stop offset="100%" stop-color="#1d4ed8"/>
+    </linearGradient>
+    <linearGradient id="trShine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#fff" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="trClip"><rect width="800" height="180" rx="12"/></clipPath>
+  </defs>
+  <g clip-path="url(#trClip)">
+    <rect width="800" height="180" fill="url(#trBg)" rx="12"/>
+    <rect width="800" height="180" rx="12" stroke="#3b82f6" stroke-width="1" stroke-opacity="0.3" fill="none"/>
+
+    <text x="25" y="30" font-family="'Segoe UI',Ubuntu,sans-serif" font-weight="700" font-size="14" fill="#3b82f6" opacity="0">
+      🏆 Achievements
+      <animate attributeName="opacity" from="0" to="1" dur="0.5s" fill="freeze"/>
+    </text>
+
+    <!-- Open Source -->
+    <g transform="translate(30,50)" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.2s" fill="freeze"/>
+      <rect x="0" y="0" width="110" height="110" rx="8" fill="#0f172a" stroke="#fbbf24" stroke-width="1" stroke-opacity="0.4"/>
+      <text x="55" y="45" text-anchor="middle" font-size="28">🌟</text>
+      <text x="55" y="72" text-anchor="middle" font-family="'Segoe UI',Ubuntu,sans-serif" font-weight="600" font-size="10" fill="#e5e7eb">Open Source</text>
+      <rect x="30" y="82" width="50" height="16" rx="8" fill="url(#trGold)" opacity="0.9"/>
+      <text x="55" y="93" text-anchor="middle" font-family="'Segoe UI',Ubuntu,sans-serif" font-weight="700" font-size="8" fill="#1a1b27">SSS</text>
+    </g>
+
+    <!-- AI/ML -->
+    <g transform="translate(155,50)" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.4s" fill="freeze"/>
+      <rect x="0" y="0" width="110" height="110" rx="8" fill="#0f172a" stroke="#3b82f6" stroke-width="1" stroke-opacity="0.4"/>
+      <text x="55" y="45" text-anchor="middle" font-size="28">🧠</text>
+      <text x="55" y="72" text-anchor="middle" font-family="'Segoe UI',Ubuntu,sans-serif" font-weight="600" font-size="10" fill="#e5e7eb">AI / ML</text>
+      <rect x="30" y="82" width="50" height="16" rx="8" fill="url(#trPurple)" opacity="0.9"/>
+      <text x="55" y="93" text-anchor="middle" font-family="'Segoe UI',Ubuntu,sans-serif" font-weight="700" font-size="8" fill="#fff">SS</text>
+    </g>
+
+    <!-- Full-Stack -->
+    <g transform="translate(280,50)" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.6s" fill="freeze"/>
+      <rect x="0" y="0" width="110" height="110" rx="8" fill="#0f172a" stroke="#fbbf24" stroke-width="1" stroke-opacity="0.4"/>
+      <text x="55" y="45" text-anchor="middle" font-size="28">⚡</text>
+      <text x="55" y="72" text-anchor="middle" font-family="'Segoe UI',Ubuntu,sans-serif" font-weight="600" font-size="10" fill="#e5e7eb">Full-Stack</text>
+      <rect x="30" y="82" width="50" height="16" rx="8" fill="url(#trGold)" opacity="0.9"/>
+      <text x="55" y="93" text-anchor="middle" font-family="'Segoe UI',Ubuntu,sans-serif" font-weight="700" font-size="8" fill="#1a1b27">SSS</text>
+    </g>
+
+    <!-- Hackathon -->
+    <g transform="translate(405,50)" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.8s" fill="freeze"/>
+      <rect x="0" y="0" width="110" height="110" rx="8" fill="#0f172a" stroke="#e5e7eb" stroke-width="1" stroke-opacity="0.3"/>
+      <text x="55" y="45" text-anchor="middle" font-size="28">🚀</text>
+      <text x="55" y="72" text-anchor="middle" font-family="'Segoe UI',Ubuntu,sans-serif" font-weight="600" font-size="10" fill="#e5e7eb">Hackathon</text>
+      <rect x="30" y="82" width="50" height="16" rx="8" fill="url(#trSilver)" opacity="0.9"/>
+      <text x="55" y="93" text-anchor="middle" font-family="'Segoe UI',Ubuntu,sans-serif" font-weight="700" font-size="8" fill="#1a1b27">S</text>
+    </g>
+
+    <!-- Projects -->
+    <g transform="translate(530,50)" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.0s" fill="freeze"/>
+      <rect x="0" y="0" width="110" height="110" rx="8" fill="#0f172a" stroke="#3b82f6" stroke-width="1" stroke-opacity="0.4"/>
+      <text x="55" y="45" text-anchor="middle" font-size="28">📦</text>
+      <text x="55" y="72" text-anchor="middle" font-family="'Segoe UI',Ubuntu,sans-serif" font-weight="600" font-size="10" fill="#e5e7eb">Projects</text>
+      <rect x="30" y="82" width="50" height="16" rx="8" fill="url(#trPurple)" opacity="0.9"/>
+      <text x="55" y="93" text-anchor="middle" font-family="'Segoe UI',Ubuntu,sans-serif" font-weight="700" font-size="8" fill="#fff">SS</text>
+    </g>
+
+    <!-- Consistency -->
+    <g transform="translate(655,50)" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.2s" fill="freeze"/>
+      <rect x="0" y="0" width="110" height="110" rx="8" fill="#0f172a" stroke="#fbbf24" stroke-width="1" stroke-opacity="0.4"/>
+      <text x="55" y="45" text-anchor="middle" font-size="28">🔥</text>
+      <text x="55" y="72" text-anchor="middle" font-family="'Segoe UI',Ubuntu,sans-serif" font-weight="600" font-size="10" fill="#e5e7eb">Consistency</text>
+      <rect x="30" y="82" width="50" height="16" rx="8" fill="url(#trGold)" opacity="0.9"/>
+      <text x="55" y="93" text-anchor="middle" font-family="'Segoe UI',Ubuntu,sans-serif" font-weight="700" font-size="8" fill="#1a1b27">SSS</text>
+    </g>
+
+    <!-- Holographic shine sweep -->
+    <rect x="0" y="0" width="80" height="180" fill="url(#trShine)">
+      <animate attributeName="x" from="-80" to="800" dur="4s" begin="2s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>

@@ -105,12 +105,16 @@ const anish = {
 ### 📊 Developer Cards
 
 <p>
-  <img src="./stats.svg?v=1" alt="Anish's Developer Stats" height="195"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Anish1302D&show_icons=true&include_all_commits=true&count_private=true&bg_color=060d1b&title_color=60a5fa&text_color=9ca3af&icon_color=06b6d4&border_color=1e293b&ring_color=3b82f6&rank_icon=github" alt="Anish's GitHub Stats" height="195"/>
   &nbsp;&nbsp;
-  <img src="./langs.svg?v=1" alt="Most Used Languages" height="195"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anish1302D&layout=compact&langs_count=8&bg_color=060d1b&title_color=60a5fa&text_color=9ca3af&border_color=1e293b" alt="Most Used Languages" height="195"/>
 </p>
 
-<img src="./trophies.svg?v=1" alt="Achievements" width="100%" />
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anish1302D&background=060d1b&ring=3b82f6&fire=06b6d4&currStreakLabel=60a5fa&sideLabels=60a5fa&currStreakNum=e5e7eb&sideNums=e5e7eb&dates=6b7280&border=1e293b" alt="GitHub Streak" width="495"/>
+</p>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Anish1302D&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=10" alt="GitHub Trophies" width="100%" />
 
 ---
 

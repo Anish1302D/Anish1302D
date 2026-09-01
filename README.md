@@ -126,11 +126,12 @@ const anish = {
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| 🛡️ [**InfraGuard AI**](https://github.com/Anish1302D/infraguard-ai) | Multimodal infrastructure failure prediction with YOLOv8 pothole detection, real-time data APIs, ResNet + XGBoost ensemble, SHAP explainability, and a live multi-city alert dashboard | `Python` `ResNet` `XGBoost` `SHAP` `FastAPI` |
-| 🧠 [**NeuralOps**](https://github.com/Anish1302D/NeuralOps) | Full-stack autonomous multi-agent intelligence platform with async FastAPI + PostgreSQL backend, agent-style pipelines, WebSocket streaming, and Next.js frontend | `FastAPI` `PostgreSQL` `Next.js` `WebSockets` |
-| ⚡ [**KesslerX**](https://github.com/Anish1302D/KesslerX) | Developer-focused project built with TypeScript — see the repo for details | `TypeScript` |
-| 👁️ [**God-Eye-View**](https://github.com/Anish1302D/God-Eye-View) | Computer vision and AI-oriented project with JavaScript | `JavaScript` |
-| 💬 [**HeyLo**](https://github.com/Anish1302D/HeyLo) | Real-time chat application with full-stack architecture, live messaging, and cross-platform support | `React` `Node.js` `Socket.IO` `MongoDB` `Flutter` |
+| 🛡️ [**InfraGuard AI**](https://github.com/Anish1302D/infraguard-ai) | Multimodal infrastructure failure prediction with YOLOv8 pothole detection, real-time data APIs, ResNet + XGBoost ensemble, SHAP explainability, and a live multi-city alert dashboard | `Python` `YOLOv8` `FastAPI` `ResNet` `XGBoost` `SHAP` `Docker` |
+| 🛰️ [**KesslerX**](https://github.com/Anish1302D/KesslerX) | AI-powered orbital traffic management and space situational awareness platform featuring 3D satellite visualization, conjunction analysis, and orbital collision risk calculation | `TypeScript` `React` `Cesium / Resium` `satellite.js` `Tailwind CSS` `Firebase` `Vite` |
+| 👁️ [**God's Eye View**](https://github.com/Anish1302D/God-Eye-View) | Real-time global intelligence console with a photorealistic 3D globe tracking live flights, naval vessels, orbital satellites, seismic events, and CCTV feeds with voice control | `JavaScript` `CesiumJS` `satellite.js` `Mapbox` `Live APIs` `WebSockets` |
+| 🏫 [**Approval Hub**](https://github.com/Anish1302D/sp-college-approval-hub) | Role-based institutional workflow management system supporting multi-tier financial approvals, inventory tracking, document verification, audit history, and analytics | `React` `Vite` `JavaScript` `Tailwind CSS` `REST APIs` |
+| 🧠 [**NeuralOps**](https://github.com/Anish1302D/NeuralOps) | Autonomous multi-agent intelligence platform with asynchronous backend, distributed agent-style pipelines, WebSocket streaming, and a high-performance interactive frontend | `FastAPI` `PostgreSQL` `Next.js` `WebSockets` `Multi-Agent` |
+| 💬 [**HeyLo**](https://github.com/Anish1302D/HeyLo) | Real-time cross-platform communication platform featuring low-latency messaging, room architecture, media attachments, and mobile + web synchronization | `React` `Flutter` `Node.js` `Socket.IO` `MongoDB` |
 
 <div align="center">
 

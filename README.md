@@ -161,6 +161,26 @@ const anish = {
 
 ---
 
+<!-- ===== SUPPORT & SPONSOR ===== -->
+
+### 💖 Support & Sponsor
+
+<p>
+  <a href="https://github.com/sponsors/Anish1302D">
+    <img src="https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="GitHub Sponsors" />
+  </a>
+  &nbsp;
+  <a href="https://buymeacoffee.com/Anish1302D">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" />
+  </a>
+  &nbsp;
+  <a href="https://ko-fi.com/Anish1302D">
+    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
+  </a>
+</p>
+
+---
+
 <!-- ===== PROFILE VIEWS ===== -->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Anish1302D&style=for-the-badge&color=3b82f6&label=PROFILE+VIEWS)
